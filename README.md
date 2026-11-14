@@ -5,7 +5,7 @@
 ankiSOL divides any habitable sphere into **108 harmonies** in **9 melodies**, using the same grid on every world. Places on Earth, Luna, Mars or Titan pair up the way sister cities do. Stewardship is shared among twelve archetypes, so no single interest can claim a whole world.
 
 ```
-𒀭𒆠.☉.003.000.b3   →   anki · Sol · 3rd song · (the song itself) · βῆτα·3
+𒀭𒆠.☉.003.000.b3   →   anki · Sol · 3rd song · (the song itself) · ᛒeta·3
 ```
 
 ## Contents

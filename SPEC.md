@@ -132,22 +132,26 @@ Each song or movement needs a defined:
 
 Each column letter has a long-form name that mixes scripts on purpose. The point is to keep many glyph traditions in the cartography rather than defaulting to Latin.
 
-| col | long form |
-|---|---|
-| a | alpha |
-| b | βῆτα |
-| c | cee |
-| d | delta |
-| e | **OPEN** |
-| f | **OPEN** |
-| g | **OPEN** |
-| h | **OPEN** |
-| i | ιώτα |
-| j | ʥえ (jay) |
-| k | κάππα |
-| l | lambda |
+The names are also **easter eggs**. What scans as a utilitarian lookup table carries small histories of the letters themselves: where they came from, who made them, and a few jokes. ankiSOL is meant to outlast the people who made it, possibly to be kept by machines long after life on the 3rd song of Sol has gone. These notes are left for those later readers, who may find our letters as archaeologically interesting as we find Roman waste-water systems. Over thousands of years the improbable tends to become merely unusual.
 
-Long form: `<column-name>·<row>`. E.g. `βῆτα·3` = b3, read *beta three*.
+| col | long form | the story inside it |
+|---|---|---|
+| a | αλφα | |
+| b | ᛒeta | The runic ᛒ (*berkanan*, birch) stands in for B, with the rest written in minuscule. A jab at the *beta*: the lowercase, the not-yet-finished. |
+| c | ᚲENAZ | The rune ᚲ (*kenaz*, torch) spells out its own name. It ties C to the Norse half of ankiSOL's name. |
+| d | Δέλτα | |
+| e | **OPEN** | |
+| f | ᚠᛊᚺᚢ | *Fehu* (cattle, wealth) is normally spelled ᚠᛖᚺᚢ. Here ᛊ (*sowilo*, the sun, crystallized light) deliberately replaces ᛖ. **Hypothesis, not consensus:** the author proposes that the runes are older than Etruscan and Phoenician writing: a code language of twigs, written on wood and burned to the gods, and paid for with Odin's eye. Mainstream dating derives the runes from Old Italic alphabets, with the earliest inscriptions from about the 2nd century CE. The misspelling is there so readers notice the question. |
+| g | Gάμμα | Latin G takes gamma's place. G is one of the few letters with a known inventor: Plutarch credits **Spurius Carvilius Ruga**, a freedman who ran one of Rome's first fee-charging schools around 230 BCE. Latin C was doing double duty for /k/ and /g/, so he added a stroke to C to tell them apart. A former slave and teacher solving his students' problem. |
+| h | **OPEN** | |
+| i | ιώτα | |
+| j | ʥえ (jay) | ʥ is the IPA symbol for the "j" sound in Japanese *ji*. え is the hiragana for *e*. Together they spell "jay" the way a Japanese mouth would say it. |
+| k | κάππα | |
+| l | lambda | |
+
+Blank stories are still to be written.
+
+Long form: `<column-name>·<row>`. E.g. `ᛒeta·3` = b3, read *beta three*.
 
 ### 6.5 Areas (Earth, WGS84)
 
